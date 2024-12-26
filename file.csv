@@ -1,3 +1,4 @@
+Id,Article Name,Quantity,Unit price,Percentage discount,Buyer
 1,Coke,10,1,0,Mario Rossi
 2,Coke,15,2,0,Luca Neri
 3,Fanta,5,3,2,Luca Neri
