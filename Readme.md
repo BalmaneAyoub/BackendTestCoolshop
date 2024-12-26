@@ -1,20 +1,11 @@
 # Coolshop - Backend Test
 
-Applicazione in C# progettata per analizzare i dati delle transazioni in un file CSV e generare i seguenti report:
+Applicazione in C# progettata per analizzare i dati delle transazioni in un file CSV:
 
-- La transazione con il totale più alto senza applicare sconto.
-- La transazione con la maggiore quantità di articoli.
-- La transazione con la differenza di sconto più alta.
+- L'ordine con il totale più alto senza applicare sconto.
+- L'ordine con la maggiore quantità di articoli.
+- L'ordine con la differenza di sconto più alta.
 
-## Funzionalità
-
-- **Lettura e Parsing del CSV**: Il programma carica e legge un file CSV contenente le transazioni, estraendo i dati rilevanti.
-- **Elaborazione Dati**: Calcola il totale per ogni transazione sia con che senza applicazione di sconto, e calcola anche la differenza tra il prezzo originale e quello scontato.
-- **Generazione Report**: Identifica e restituisce il report per:
-  - La transazione con il totale più alto senza sconto.
-  - La transazione con la quantità di articoli maggiore.
-  - La transazione con la maggiore differenza di sconto.
-- **Visualizzazione in Console**: Mostra i risultati dei report in modo chiaro e leggibile sulla console.
 
 ## Struttura del File CSV
 
@@ -27,6 +18,17 @@ Il file CSV deve essere strutturato nel seguente modo:
 | 3  | Fanta         | 5        | 3.00            | 2%                 | Luca Neri |
 | 4  | Acqua         | 20       | 1.00            | 10%                | Mario Rossi|
 | 5  | Fanta         | 1        | 4.00            | 15%                | Andrea Bianchi|
+
+
+## Funzionalità
+
+- **Lettura e Parsing del CSV**: Il programma carica e legge un file CSV contenente le transazioni, estraendo i dati rilevanti.
+- **Elaborazione Dati**: Calcola il totale per ogni transazione sia con che senza applicazione di sconto, e calcola anche la differenza tra il prezzo originale e quello scontato.
+- **Generazione Report**: Identifica e restituisce il report per:
+  - La transazione con il totale più alto senza sconto.
+  - La transazione con la quantità di articoli maggiore.
+  - La transazione con la maggiore differenza di sconto.
+- **Visualizzazione in Console**: Mostra i risultati dei report in modo chiaro e leggibile sulla console.
 
 ## Come Utilizzare il Programma
 
