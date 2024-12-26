@@ -1,0 +1,15 @@
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\bin\Debug\net8.0\EcommerceOrders.exe
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\bin\Debug\net8.0\EcommerceOrders.deps.json
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\bin\Debug\net8.0\EcommerceOrders.runtimeconfig.json
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\bin\Debug\net8.0\EcommerceOrders.dll
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\bin\Debug\net8.0\EcommerceOrders.pdb
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.GeneratedMSBuildEditorConfig.editorconfig
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.AssemblyInfoInputs.cache
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.AssemblyInfo.cs
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.csproj.CoreCompileInputs.cache
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.sourcelink.json
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.dll
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\refint\EcommerceOrders.dll
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.pdb
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\EcommerceOrders.genruntimeconfig.cache
+Z:\BackendTestCoolshop\EcommerceOrders\EcommerceOrders\obj\Debug\net8.0\ref\EcommerceOrders.dll
