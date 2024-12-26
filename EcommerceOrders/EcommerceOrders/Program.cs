@@ -4,10 +4,10 @@
     {
         static void Main(string[] args)
         {
-            string filepath = "BackendTestCoolshop\file.csv";
+            string filepath = @"Z:\BackendTestCoolshop\file.csv";
 
 
-            if (File.Exists(filepath)) { 
+            if (!File.Exists(filepath)) { 
                 
                 Console.WriteLine("file specificato non esiste: " + filepath);
                 return;
