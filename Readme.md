@@ -1,6 +1,6 @@
 # Coolshop - Backend Test
 
-Coolshop è un'applicazione in C# progettata per analizzare i dati delle transazioni in un file CSV e generare i seguenti report:
+Applicazione in C# progettata per analizzare i dati delle transazioni in un file CSV e generare i seguenti report:
 
 - La transazione con il totale più alto senza applicare sconto.
 - La transazione con la maggiore quantità di articoli.
