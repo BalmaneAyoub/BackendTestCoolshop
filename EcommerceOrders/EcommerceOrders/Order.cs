@@ -15,11 +15,13 @@ namespace EcommerceOrders
         public decimal percentagediscount { get; set; }
         public string buyer { get; set; }
 
+        // totale calcolato con la quantita moltiplicato con il prezzo per la singola unita con  il calcolo dello sconto
         public decimal Total()
         {
             return quantity * unitprice * (1- percentagediscount/100);
         }
 
+        //Calcolo del Totale senza sconto quindi quantità moltiplicata per il prezzo della singola unità
         public decimal Totalnodiscount() 
         {    
             return quantity * unitprice;
